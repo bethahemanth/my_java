@@ -1,5 +1,7 @@
-package Arrays.src.Arrays;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Scanner;
+
 public class basics {
     //Arrays
     public static void main(String args[])
