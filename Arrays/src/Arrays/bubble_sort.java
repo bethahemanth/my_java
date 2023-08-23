@@ -34,5 +34,6 @@ public static void main(String args[])
 	{
 		System.out.println(arr[i]);
 	}
+	System.out.println("Sorted!");
 }
 }
