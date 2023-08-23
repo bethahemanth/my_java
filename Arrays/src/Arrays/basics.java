@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.src.Arrays;
 import java.util.*;
 public class basics {
     //Arrays
