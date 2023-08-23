@@ -31,7 +31,7 @@ public class basics {
                 s[i][j]=sc.nextInt();
             }
         }
-        for(int[] a:s)
+        for(int[] aa:s)
         {
             System.out.println(Arrays.toString(a));
         }
