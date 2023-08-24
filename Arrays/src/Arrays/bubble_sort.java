@@ -30,10 +30,10 @@ public static void main(String args[])
 		arr[i]=sc.nextInt();
 	}
 	bubblesort(arr,n);
+	System.out.println("Sorted:");
 	for(int i=0;i<n;i++)
 	{
 		System.out.println(arr[i]);
 	}
-	System.out.println("Sorted!");
 }
 }
